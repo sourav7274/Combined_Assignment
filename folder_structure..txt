@@ -1,0 +1,16 @@
+When full structure is complete
+
+Main Folder ->
+            -> Backend ->
+                        -> connection - caontains db connection code
+                        -> models - contains the mongoose db schema
+                        -> index.js - contains the necessary routes
+
+            -> Frontend -> 
+                        -> public - default images(not used in project)
+                        -> src ->
+                                -> components - contains Header and Footer components
+                                -> pages - contains the necessary pages for the assignemnt
+                                -> action.js - contains fetch codes for the routes applicable
+                                -> App.js - contains the homepage
+                                -> index,js - contains code for redirection in the assignment

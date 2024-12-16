@@ -1,17 +1,10 @@
-# Combined_Assignment
-1. Create a README.md file if it doesn't exist already.
-bash
-Copy code
-touch README.md
-2. Open README.md and add the following content to provide installation instructions:
-markdown
-Copy code
-# Project Title
+
+Assignment
 
 ## Installation
 
 1. Clone the repository:
-   ```bash
+  
    git clone https://github.com/sourav7274/Combined_Assignment.git
    cd Combined_Assignment
 Initialize submodules:
