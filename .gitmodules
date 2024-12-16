@@ -1,0 +1,6 @@
+[submodule "assignment_backend"]
+	path = assignment_backend
+	url = https://github.com/your-username/assignment_backend.git
+[submodule "assignmentfrontend"]
+	path = assignmentfrontend
+	url = https://github.com/your-username/assignmentfrontend.git
